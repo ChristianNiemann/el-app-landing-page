@@ -4,57 +4,51 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# Privatlivspolitik for BilligStrøm
+BilligStrøm er forpligtet til at beskytte dine personlige oplysninger. Denne privatlivspolitik beskriver, hvordan BilligStrøm indsamler og bruger dine personoplysninger, når du bruger appen. Beskyttelse af dine personlige oplysninger tages meget alvorligt og dine oplysninger vil blive behandlet i overensstemmelse med gældende databeskyttelseslovgivning.
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Med det sagt, er appen lavet, så der gemmes så lidt personhenførbar data som muligt.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## Hvem er BilligStrøm?
+Christian Niemann er dataansvarlig for behandlingen af de personoplysninger, som appen modtager om dig. Du finder mine kontaktoplysninger nedenfor:
 
-<br>
+Christian Niemann<br>
+2300 København S<br>
+christian@cnlabs.dk<br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Hvilke data opsamles om dig?
+For at få adgang til din elforbrugsdata, bruger BilligStrøm en adgangstoken fra eloverblik.dk. Denne token gemmes kun på din enhed og kan slettes af dig når som helst, hvis du ønsker det. Ingen data om dit forbrug eller beregninger sendes nogen steder hen.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Hvis du ønsker at bruge BilligStrøm til at skifte elselskab, vil du blive bedt om at oplyse dit CPR-nummer, som vil blive gemt af BilligStrøm indtil skiftet er gået igennem. Herefter vil personhenførbare oplysninger blive slettet.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Der bruges Google Analytics og Firebase Crashlytics til at optimere appen, ved at indsamle anonym information om, hvordan brugere anvender appen. Disse oplysninger hjælper med at forbedre brugeroplevelsen og appens funktionalitet. Oplysningerne, der indsamles af disse tjenester, er helt anonyme og kan ikke spores tilbage til dig personligt.
 
-<br>
+## Hvad bruges dine data til?
+- At give dig adgang til data om priser på el gennem adgangstoken fra eloverblik.dk.
+- At hjælpe dig med at skifte elselskab, hvis du vælger at bruge denne funktion.
+- At optimere appen gennem Google Analytics og Firebase Crashlytics.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Hvem kan din data deles med?
+BilligStrøm vil ikke dele dine personoplysninger med tredjeparter uden din tilladelse, medmindre dette er påkrævet ved lov.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+I forbindelse med skifte af elselskab, vil dit CPR-nummer blive delt med det selskab du har valgt, så de kan gennemføre et skifte.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## Opbevaring og sletning af personoplysninger
+BilligStrøm vil opbevare dine personoplysninger så længe det er nødvendigt for at opfylde formålene beskrevet i denne privatlivspolitik, medmindre længere opbevaring er påkrævet eller tilladt ved lov.
 
-<br>
+## Dine rettigheder
+Du har ret til at anmode om adgang til, rettelse eller sletning af dine personoplysninger, samt til at gøre indsigelse mod behandlingen af dine personoplysninger. Du har også ret til at trække dit samtykke til behandling af dine personoplysninger tilbage.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+Hvis du ønsker at udøve dine rettigheder, bedes du tage kontakt på christian@cnlabs.dk.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## Ændringer til privatlivspolitikken
+BilligStrøm forbeholder sig retten til at ændre denne privatlivspolitik. Eventuelle ændringer vil blive offentliggjort på hjemmesiden. Vi opfordrer dig til at gennemgå denne privatlivspolitik regelmæssigt, for at holde dig opdateret om eventuelle ændringer.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## Klage til Datatilsynet
+Hvis du vil klage over BilligStrøms behandling af dine personoplysninger, kan du kontakte Datatilsynet. Du kan læse mere om Datatilsynet, og se tilsynets vejledning om klageadgang mv. på Datatilsynets hjemmeside 
+[www.datatilsynet.dk](https://www.datatilsynet.dk/).
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+**Sidst opdateret**  
+22, April 2023
